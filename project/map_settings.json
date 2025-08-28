@@ -1,6 +1,6 @@
 {
 	"MapDisplayName": "空白（单人V2）",
-	"HideTileDeco": false,
+	"HideTileDeco": true,
 	"EnableGAO": false,
 	"GuideURL": "http://pt.master.sce.xd.com/editor_app.html",
 	"ProjectName": "p_0tja",

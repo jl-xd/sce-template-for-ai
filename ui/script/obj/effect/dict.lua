@@ -1626,6 +1626,7 @@ return function (datas)
         ['$$.camera_property.camerapro.root'] = datas.camera_property['$$.camera_property.camerapro']['root'],
         ['$$p_0tja.camera_property.AI测试场景镜头.root'] = datas.camera_property['$$p_0tja.camera_property.AI测试场景镜头']['root'],
         ['$$p_0tja.camera_property.Vampire镜头.root'] = datas.camera_property['$$p_0tja.camera_property.Vampire镜头']['root'],
+        ['$$p_0tja.camera_property.modern镜头.root'] = datas.camera_property['$$p_0tja.camera_property.modern镜头']['root'],
         ['$$defaultui.character.Listener.root'] = datas.character['$$defaultui.character.Listener']['root'],
         ['$$defaultui.character.Speaker.root'] = datas.character['$$defaultui.character.Speaker']['root'],
         ['$$default_units_ts.effect.击退.Buff_1'] = datas.effect['$$default_units_ts.effect.击退']['Buff_1'],
